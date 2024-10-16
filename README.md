@@ -1,4 +1,4 @@
-# Preet1
+# Preet Rawal
 This is my first github repostiory.
 <br> 
 Author - Preet rawal
